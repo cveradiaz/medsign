@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Interfaz-E2E" verbose="1">
+        <!-- Variables globales de venta-interfaz -->
+
+
+<test name="TratamientoIsapreBeneficiarioConCia">
+<classes>
+    <class name="testSuites.Firmas.MedSignFirmas"/>
+</classes>
+</test>
+        </suite>
+
+
+
+
+
+
+
+
+
+
+
+
+

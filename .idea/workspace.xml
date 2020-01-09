@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cb9582c-dca7-4231-8365-b502bfced80c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>signing</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.1/bin" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SCQKaO3OOzRlb2jCTiULrtQOoJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578425735814" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Jenkins/workspace/prueba" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6248625" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\medsign\pruebas_regresion\ProyectoBase\Imed_Medsign\src\main\test" />
+      <recent name="D:\medsign\pruebas_regresion\ProyectoBase\Imed_Medsign\src\main\java" />
+      <recent name="D:\imed\newmedsign\pruebas_regresion\ProyectoBase\Imed_Medsign\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="testClass" />
+      <recent name="page" />
+      <recent name="constans" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\imed\newmedsign\pruebas_regresion\ProyectoBase\Imed_Medsign\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Claudio.Vera/Desktop/Imed_Medsign/medsign.xml">
+    <configuration name="C:/Users/Claudio.Vera/Desktop/Imed_Medsign/medsign.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Licencia_tsoft" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/medsign.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedSignFirmas (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Licencia_tsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSuites.Firmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSuites.Firmas" />
+      <option name="MAIN_CLASS_NAME" value="testSuites.Firmas.MedSignFirmas" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedSignFirmas" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imed_common-tsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSuites.Firmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSuites.Firmas" />
+      <option name="MAIN_CLASS_NAME" value="testSuites.Firmas.MedSignFirmas" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedSignFirmas.CPA001CreacionFirmaClave" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imed_common-tsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSuites.Firmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSuites.Firmas" />
+      <option name="MAIN_CLASS_NAME" value="testSuites.Firmas.MedSignFirmas" />
+      <option name="METHOD_NAME" value="CPA001CreacionFirmaClave" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedSignFirmas.CPA004wsCreateTemplate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="imed_common-tsoft" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSuites.Firmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSuites.Firmas" />
+      <option name="MAIN_CLASS_NAME" value="testSuites.Firmas.MedSignFirmas" />
+      <option name="METHOD_NAME" value="CPA004wsCreateTemplate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Claudio.Vera/Desktop/Imed_Medsign/medsign.xml" />
+        <item itemvalue="TestNG.MedSignFirmas (1)" />
+        <item itemvalue="TestNG.MedSignFirmas" />
+        <item itemvalue="TestNG.MedSignFirmas.CPA001CreacionFirmaClave" />
+        <item itemvalue="TestNG.MedSignFirmas.CPA004wsCreateTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Mauricio.Garcia\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cb9582c-dca7-4231-8365-b502bfced80c" name="Default Changelist" comment="" />
+      <created>1571065034564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571065034564</updated>
+      <workItem from="1578505317316" duration="1100000" />
+      <workItem from="1578506589323" duration="736000" />
+      <workItem from="1578507615107" duration="2615000" />
+      <workItem from="1578512667044" duration="895000" />
+      <workItem from="1578575402376" duration="1025000" />
+      <workItem from="1578580621644" duration="1207000" />
+    </task>
+    <task id="LOCAL-00001" summary="cambios xls.2">
+      <created>1574257376713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574257376713</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pom.maven">
+      <created>1574259281776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574259281776</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" jenkins">
+      <created>1578423216610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578423216610</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" jenkins xml">
+      <created>1578425474624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578425474624</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambios xls.2" />
+    <MESSAGE value="pom.maven" />
+    <MESSAGE value=" jenkins" />
+    <MESSAGE value=" jenkins xml" />
+    <option name="LAST_COMMIT_MESSAGE" value=" jenkins xml" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6248625" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6248625" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6248625" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>imed_common-tsoft</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6248625" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: bouncycastle:bcmail-jdk14:138</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6248625" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

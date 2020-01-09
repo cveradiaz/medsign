@@ -1,0 +1,85 @@
+# Created at 2020-01-07T16:29:16.067
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-01-07T16:29:20.027
+Unexpected IOException with stream: No es visible el elemento a validar.
+
+
+# Created at 2020-01-07T16:29:20.041
+Unexpected IOException with stream: esperamos que apareca el proceso de firma false
+
+
+# Created at 2020-01-07T16:29:20.056
+Unexpected IOException with stream: 4
+
+# Created at 2020-01-07T16:29:20.065
+Unexpected IOException with stream: 
+
+
+# Created at 2020-01-07T16:29:20.073
+Unexpected IOException with stream: Valida si Es visible el elemnto a validar.
+
+
+# Created at 2020-01-07T16:29:30.629
+Unexpected IOException with stream: No es visible el elemento a validar.
+
+
+# Created at 2020-01-07T16:29:30.647
+Unexpected IOException with stream: esperamos que apareca el proceso de firma false
+
+
+# Created at 2020-01-07T16:29:30.662
+Unexpected IOException with stream: 5
+
+# Created at 2020-01-07T16:29:30.676
+Unexpected IOException with stream: 
+
+
+# Created at 2020-01-07T16:29:30.686
+Unexpected IOException with stream: Valida si Es visible el elemnto a validar.
+
+
+# Created at 2020-01-07T16:29:41.108
+Unexpected IOException with stream: No es visible el elemento a validar.
+
+
+# Created at 2020-01-07T16:29:41.116
+Unexpected IOException with stream: esperamos que apareca el proceso de firma false
+
+
+# Created at 2020-01-07T16:29:41.121
+Unexpected IOException with stream: 6
+
+# Created at 2020-01-07T16:29:41.130
+Unexpected IOException with stream: 
+
+
+# Created at 2020-01-07T16:29:41.135
+Unexpected IOException with stream: Valida si Es visible el elemnto a validar.
+
+
+# Created at 2020-01-07T16:29:51.659
+Unexpected IOException with stream: No es visible el elemento a validar.
+
+
+# Created at 2020-01-07T16:29:51.675
+Unexpected IOException with stream: esperamos que apareca el proceso de firma false
+
+
+# Created at 2020-01-07T16:29:51.685
+Unexpected IOException with stream: 7
+
+# Created at 2020-01-07T16:29:51.693
+Unexpected IOException with stream: 
+
+
+# Created at 2020-01-07T16:29:51.702
+Unexpected IOException with stream: Valida si Es visible el elemnto a validar.
+
+

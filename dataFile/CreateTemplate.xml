@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><x:Envelope><x:Header/><x:Body><x:CreateTemplate><x:Auth><urn:SecretToken>88bbe7c1-a448-49aa-bea0-a988719a6127</urn:SecretToken><urn:SecretKey>c5e456f68235b95d4e271287b991d1cc42cbb65b8b8106b578a8990eaa746b64</urn:SecretKey></x:Auth><urn:Name>PruebaQA33</urn:Name><urn:Institution>DESARROLLO</urn:Institution><urn:DocType>PR2019183512755</urn:DocType><urn:Fields>{"Nombre":"Juan"}</urn:Fields><urn:Signers>{
+  "Signer": [{
+    "Rut": "16374529-1",
+    "Name": "PRUEBA",
+    "Role": "cliente",
+    "Email": "PRU898998BA@i-med.cl",
+    "Signatures": {
+      "Signature": [{
+        "Page": 1,
+        "X": 40,
+        "Y": 70,
+        "W": 20,
+        "H": 25
+      }]
+    }
+  }]
+}</urn:Signers></x:CreateTemplate></x:Body></x:Envelope>
